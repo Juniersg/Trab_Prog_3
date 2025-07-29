@@ -1,0 +1,21 @@
+# Ignorar archivos de entorno y secretos
+.env
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales
+*.log
+*.bak
+*.tmp
+
+# Ignorar carpetas virtualenv
+env/
+venv/
+
